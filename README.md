@@ -5,11 +5,10 @@
 Projetos e exercícios desenvolvidos em Python, focados em lógica de programação,
 estruturas de dados, funções, manipulação de ficheiros e resolução de problemas.
 Este repositório serve para praticar Python e consolidar fundamentos de programação,
-preparando para projetos mais complexos e aplicações reais.
+preparando para projetos mais complexos e aplic.ações reais.
 
 # 🇵🇹 Tecnologias Utilizadas
-- Python 3.x
-- IDLE, VS Code ou PyCharm
+- VScode e Replit.
 
 # 🇵🇹 Funcionalidades
 - Programas simples e intermediários
@@ -26,8 +25,7 @@ This repository is meant to practice Python and strengthen programming foundatio
 preparing for more complex projects and real-world applications.
 
 # 🇬🇧 Technologies Used
-- Python 3.x
-- IDLE, VS Code or PyCharm
+- VsCode and Replit.
 
 # 🇬🇧 Features
 - Simple and intermediate programs
